@@ -4,4 +4,4 @@ title: Body
 permalink: /_pages/body
 ---
 
-<img src="/images/default.jpg" width="200" height="400"/>
+<img src="/images/default.jpg" width="200" height="300"/>
