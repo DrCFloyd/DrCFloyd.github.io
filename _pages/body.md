@@ -36,12 +36,12 @@ Bodies and issues of embodiment provide a throughline through my research and pr
 <h3 style="text-align:left">What happens when you ask 30+ people to record themselves reading an iconic passage from Mary Shelley's <em>Frankenstein</em>, "Beware, for I am fearless and therefore powerful," and then visualize those recordings? In a <em>Frankenreads</em> event I organized in 2018, I found out. In between helping people who had never recorded before learn to navigate the microphone and digital audio workstation I had set up, I got to watch students, faculty, and staff––all stressed out by the approach of midterms––straighten their shoulders, lift their chins, and, however momentarily, bask in the power of those words emanating from their lips. We compared their visualized recordings, noting the ways that some readers got louder with the word "powerful," the way some dawdled through the words as if their power had never been in question, the way others belted the whole fragment, decibels clipping with their enthusiasm. Because of confidentiality, I can't share those recordings here. But, I can share a small selection of the visualizations: 
 </h3>
 
-<img src="/images/frankenreads4.png"><br>
-<img src="/images/frankenreads1.png"><br>
-<img src="/images/frankenreads3.png"><br>
-<img src="/images/frankenreads2.png"><br>
-<img src="/images/Capture.png"><br>
-<img src="/images/dpwFrankenRead.png">
+<img src="/images/frankenreads4.png" alt="waveform"/><br>
+<img src="/images/frankenreads1.png" alt="waveform"/><br>
+<img src="/images/frankenreads3.png" alt="waveform"/><br>
+<img src="/images/frankenreads2.png" alt="waveform"/><br>
+<img src="/images/Capture.png" alt="waveform"/><br>
+<img src="/images/dpwFrankenRead.png" alt="waveform"/>
 
 <br>
 <h3 style="text-align:left">An image that thematizes my dissertation's engagement with disability rhetoric in print media:</h3> 
