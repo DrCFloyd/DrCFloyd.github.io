@@ -15,7 +15,7 @@ Bodies and issues of embodiment provide a throughline through my research and pr
   <li>“Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper.” North American Studies Association (NAVSA), St. Petersburg, FL, October 2018.</li>
   <li>“‘Take it when tendered’: Medicine, Material Texts, and the Creation of (Dis)Ability in the Nineteenth-Century Newspaper.” The Body and the Page in Victorian Culture: An International Conference, Research Society for Victorian Periodicals (RSVP) and Victorian Studies Association of Western Canada (VSAWC), Victoria, B.C., July 2018</li>
   <li>“Preserving Reputation, Transforming Identity: Victorian Gender and Sexuality in/and the Fictional Archive.” North American Victorian Studies Association (NAVSA), Banff, Alberta, November 2017</li>
-  <li>“Feverish Imperial Eyes and Victorian Geography Primers: Illness as Ideological Subversion in Charlotte Yonge’s Little Lucy’s Wonderful Globe.” North American Victorian Studies Association (NAVSA), Honolulu, HI, July 2015<li>
+  <li>“Feverish Imperial Eyes and Victorian Geography Primers: Illness as Ideological Subversion in Charlotte Yonge’s Little Lucy’s Wonderful Globe.” North American Victorian Studies Association (NAVSA), Honolulu, HI, July 2015</li>
   <li>“The Sphinx Plays the Provider: Interrogating Masculinity and Ideal Identity in The Female Barber Detective and The Golden Slipper.” Annual Rocky Mountain Modern Language Association (RMMLA), Vancouver, WA, October 2013</li>
   </ul>
   
@@ -23,7 +23,7 @@ Bodies and issues of embodiment provide a throughline through my research and pr
 <h3 style="text-align:left">
 <ul>
   <li><a href="https://courtneyafloyd.com/quiet/">Valuing the Quiet Instructor</a>, a talk I gave about teaching personas, extraversion, introversion, and participation in the classroom</li>
-  </ul>
+ </ul>
                                                           
 </h3>
 
