@@ -51,4 +51,4 @@ Bodies and issues of embodiment provide a throughline through my research and pr
 <h3 style="text-align:left">
   <ul>
     <li>“Inclusive Design,” a summer course offered by Digital Pedagogy Lab at the University of Mary Washington, 2019</li>
-    <li>“UDL 2.0: Expanding UDL Adoption,” a two-day training event focused on implementing and supporting universal design at the university level, University of Virginia, 2019</li></h3>
+    <li>“UDL 2.0: Expanding UDL Adoption,” a two-day training event focused on implementing and supporting universal design at the university level, University of Virginia, 2019</li></ul></h3>
