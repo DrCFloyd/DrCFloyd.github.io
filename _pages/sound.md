@@ -57,4 +57,4 @@ permalink: /_pages/sound
  <figure style="text-align:center"><img src="/images/Alan Rickman line from Sonnet 130.png" alt="image of waveform"><figcaption style="text-align:center">Caption: waveform of Alan Rickman reading a line from Shakespeare's Sonnet 130. Workshop participants also read the line, and compared their visualized recordings to this one."</figcaption></figure>
 
 <h2>Grants</h2>
-<h3 style="text-align:left">Dashlane Cash Mini Grant for Fiction Podcasters for my in-progress Audio Drama <em>The Way We Haunt Now, October 2019</em></h3>
+<h3 style="text-align:left">Dashlane Cash Mini Grant for Fiction Podcasters for my in-progress Audio Drama <em>The Way We Haunt Now</em>, October 2019</h3>
