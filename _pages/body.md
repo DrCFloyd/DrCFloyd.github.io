@@ -4,7 +4,7 @@ title: Body
 permalink: /_pages/body
 ---
 
-<h2 style="text-align:left"><strong>Body</strong>: The complete physical form of a person or animal; the assemblage of parts, organs, and tissues that constitutes the whole material organism. (<em>OED</em> def. 1a)</h2>
+<h3><strong>BODY</strong>: The complete physical form of a person or animal; the assemblage of parts, organs, and tissues that constitutes the whole material organism. (<em>OED</em> def. 1a)</h3>
 
 <h3 style="text-align:left">
 Bodies and issues of embodiment provide a throughline through my research and practice. In my current position, I work to support active, whole-person learning through technology, and I am particularly interested in issues of accessibility. My research enacts several interventions into questions of embodiment, from critical disability studies to the embodied experience of gender to racially Othered bodies in literature. Of particular note is my forthcoming article with <em>Victorian Review</em>, “‘Take it When Tendered’: M.E. Braddon’s Thou Art the Man (1894) and The Weekly Telegraph’s Media Model of Disability.”                                                           
