@@ -44,7 +44,7 @@ Bodies and issues of embodiment provide a throughline through my research and pr
 <img src="/images/dpwFrankenRead.PNG" alt="waveform"/>
 
 <br>
-<h3 style="text-align:left">An image that thematizes my dissertation's engagement with disability rhetoric in print media:</h3> 
+<h3 style="text-align:left">One of the images that I analyze in my dissertation chapter on disability rhetoric in print media:</h3> 
 <figure style="text-align:center"><img src="/images/default.jpg" width="400" height="550" alt="Quack doctor surrounded by and holding colorful medicine bottles. Text reads: Dr. Kill’em or Cure’em which ever it may be. If you cure ‘em or kill ‘em it don’t matter to thee. “To be shaken when taken.” or “Two pulls at bed-time.” When you’re caught you’ll be shaken, My dear Valentine."><figcaption><h3>A quack doctor irresponsibly dispensing his potions. Coloured lithograph. 1893. Credit: Wellcome Collection. CC BY. Text reads: Dr. Kill’em or Cure’em which ever it may be. If you cure ‘em or kill ‘em it don’t matter to thee. “To be shaken when taken.” or “Two pulls at bed-time.” When you’re caught you’ll be shaken, My dear Valentine.</h3></figcaption></figure>
 
 <h2>Professional Training</h2>
