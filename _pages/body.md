@@ -28,7 +28,7 @@ Bodies and issues of embodiment provide a throughline through my research and pr
 </h3>
 
 <h2>Disability Studies in the Classroom</h2>
-<h3 style="text-align:left">As a Graduate Fellow at the University of Oregon, I developed the following Writing course, in which students and I not only focused on disability, but made accessibility and embodiment an integral part of our learning and community building.</h3> <br>
+<h3 style="text-align:left">As a Graduate Teaching Fellow at the University of Oregon, I developed the following Writing course, in which students and I not only focused on disability, but made accessibility and embodiment an integral part of our learning and community building.</h3> <br>
 <iframe src="https://drive.google.com/file/d/1vUfAwryYsE3cOd2V2Hlkgo2Y8ehIJXDq/preview" width="640" height="480" style="text-align:center"></iframe>
 
 <br>
