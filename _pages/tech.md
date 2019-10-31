@@ -8,7 +8,7 @@ permalink: /_pages/tech
   
 <p>In the nineteenth century, makers like William Morris strategically turned to "old" and "outdated" technologies not only to make political statements (Morris was an outspoken socialist, for example) but also to push back against the encroachments of new technology upon day to day life. Although they made use of what were then cutting edge technologies (such as photographic printing), they were wary of mass production, mass media, automation, and homogeneity. In this context, something like crochet or embroidery becomes a revolutionary technology with which to mediate one's lived experience of the world.</p>
 
-<p>All of which is to explain that I include items like "learning to sew" alongside "learning to code in Python" because, I contend, both are creative-critical activities which make use of technology.<p></h3>
+<p>All of which is to explain that I include items like "learning to sew" alongside "learning to code in Python" because, I contend, both are creative-critical activities which make use of technology.</p></h3>
   
 <h2>Proficiencies</h2>
 <h3 style="text-align:left"><ul>
