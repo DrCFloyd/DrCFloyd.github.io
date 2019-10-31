@@ -8,15 +8,15 @@ posted-by: Courtney Floyd
 
 <!-- wp:paragraph --><p>Cootie catchers are folded-paper toys which can be used, much like Magic 8 Balls, to "predict" the future. The folding process makes them into puppet- like objects which open and close, revealing their inner contents. They are usually decorated on the outside with numbers or colors, which are then used to determine the number of times the cootie catcher is opened and closed, which in turn determines which flap one gets to lift. The fortunes, of course, are waiting under those flaps.</p><!-- /wp:paragraph -->
 
-<!-- wp:image {"id":3383,"sizeSlug":"large"} --><figure class="wp-block-image size-large"><img class="wp-image-3383" src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8828-1.jpg" alt="A very large cootie catcher with blue, yellow, purple, and pink written on its sections, over patterns of the same colors." /><figcaption>A very large cootie catcher with blue, yellow, purple, and pink written on its sections, over patterns of the same colors.</figcaption></figure><!-- /wp:image -->
+<!-- wp:image {"id":3383,"sizeSlug":"large"} --><figure class="wp-block-image size-large"><img src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8828-1.jpg" alt="A very large cootie catcher with blue, yellow, purple, and pink written on its sections, over patterns of the same colors." /><figcaption>A very large cootie catcher with blue, yellow, purple, and pink written on its sections, over patterns of the same colors.</figcaption></figure><!-- /wp:image -->
 
-<figure><img class="wp-image-3377" src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8835.jpg" alt="A peek into a cootie catcher. Visible flaps labeled "practice" and "principle.""/><figcaption>A peek into a cootie catcher. Visible flaps labeled "practice" and "principle."</figcaption></figure>
+<figure><img src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8835.jpg" alt="A peek into a cootie catcher. Visible flaps labeled "practice" and "principle.""/><figcaption>A peek into a cootie catcher. Visible flaps labeled "practice" and "principle."</figcaption></figure>
 
-<figure><img class="wp-image-3378" src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8836.jpg" alt="Cootie catcher with one open flap." data-id="3378" data-link="https://courtneyafloyd.com/img_8836/" /><figcaption>Cootie catcher with one open flap.</figcaption></figure>
+<figure><img src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8836.jpg" alt="Cootie catcher with one open flap."/><figcaption>Cootie catcher with one open flap.</figcaption></figure>
 
-<figure><img class="wp-image-3379" src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8840.jpg" alt="Partially unfolded cootie catcher." data-id="3379" data-link="https://courtneyafloyd.com/img_8840/" /><figcaption>Partially unfolded cootie catcher.</figcaption></figure>
+<figure><img src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8840.jpg" alt="Partially unfolded cootie catcher." /><figcaption>Partially unfolded cootie catcher.</figcaption></figure>
 
-<figure><img class="wp-image-3380" src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8841.jpg" alt="Cootie catcher with all flaps opened, beside box of crayons." data-id="3380" data-link="https://courtneyafloyd.com/img_8841/" /><figcaption>Cootie catcher with all flaps opened, beside box of crayons.</figcaption></figure>
+<figure><img src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8841.jpg" alt="Cootie catcher with all flaps opened, beside box of crayons."/><figcaption>Cootie catcher with all flaps opened, beside box of crayons.</figcaption></figure>
 
 <!-- wp:paragraph --><p>So much for the <em>what</em>. Now, for the <em>why</em>:</p><!-- /wp:paragraph -->
 
