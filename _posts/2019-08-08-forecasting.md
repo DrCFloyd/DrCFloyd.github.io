@@ -10,7 +10,7 @@ posted-by: Courtney Floyd
 
 <!-- wp:image {"id":3383,"sizeSlug":"large"} --><figure class="wp-block-image size-large"><img class="wp-image-3383" src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8828-1.jpg" alt="A very large cootie catcher with blue, yellow, purple, and pink written on its sections, over patterns of the same colors." /><figcaption>A very large cootie catcher with blue, yellow, purple, and pink written on its sections, over patterns of the same colors.</figcaption></figure><!-- /wp:image -->
 
-<figure><img class="wp-image-3377" src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8835.jpg" alt="A peek into a cootie catcher. Visible flaps labeled "practice" and "principle."" data-id="3377" data-link="https://courtneyafloyd.com/img_8835/" /><figcaption>A peek into a cootie catcher. Visible flaps labeled "practice" and "principle."</figcaption></figure>
+<figure><img class="wp-image-3377" src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8835.jpg" alt="A peek into a cootie catcher. Visible flaps labeled "practice" and "principle.""/><figcaption>A peek into a cootie catcher. Visible flaps labeled "practice" and "principle."</figcaption></figure>
 
 <figure><img class="wp-image-3378" src="https://courtneyafloyd.files.wordpress.com/2019/08/img_8836.jpg" alt="Cootie catcher with one open flap." data-id="3378" data-link="https://courtneyafloyd.com/img_8836/" /><figcaption>Cootie catcher with one open flap.</figcaption></figure>
 
