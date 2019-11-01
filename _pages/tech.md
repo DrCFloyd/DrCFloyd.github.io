@@ -57,9 +57,9 @@ supporting universal design at the university level, University of Virginia, 201
 <img src ="/images/Victorian-Scribblers-1400-x-1400.jpg" alt="Victorian Scribblers logo, a black and white illustration of a dodo on a yellowed book page, overlaid with two half circles and the words Victorian Scribblers">
 
 <p><a href="www.victorianscribblers.com"><em>Victorian Scribblers</em></a> is a biography and literature podcast about the nineteenth-century writers time forgot. It’s a public and digital humanities project that’s equal parts recovery- and accessibility-oriented. What I mean by that is that it’s my goal to bring public attention to Victorian writers (from fiction to nonfiction, canonical novel to ephemeral advertisement) in a way that is approachable, understandable, and useful to a wide-ranging audience, from our academic colleagues to students studying for exams to enthusiasts out in the wild, as it were.
-</p><br>
+</p>
 
-<p>MEBAread, Organizer and Leader, inaugural Mary Elizabeth Braddon Association digital read-along (Twitter and WordPress), https://maryelizabethbraddon.com/braddon-read-along-announcement-and-instructions-for-participation/</p></h3>
+<p>In 2017, I organized and ran <a href="https://maryelizabethbraddon.com/braddon-read-along-announcement-and-instructions-for-participation/"><em>MEBAread</em></a>, the inaugural Mary Elizabeth Braddon Association digital read-along (Twitter and WordPress).</p></h3>
 
 <h2>Text and Corpus Building and Analysis</h2>
 <h3 style="text-align:left"> I have experience with a variety of text analysis and mining tools, ranging from internet applications (Voyant Tools, Wordle) to open source programs such as AntConc. I am currently learning how to use Python for text analysis, and have successfully used it to build a corpus of public domain texts (see the Fergus Hume project, below).</h3>
