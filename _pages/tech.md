@@ -59,7 +59,7 @@ supporting universal design at the university level, University of Virginia, 201
 <p><a href="www.victorianscribblers.com"><em>Victorian Scribblers</em></a> is a biography and literature podcast about the nineteenth-century writers time forgot. It’s a public and digital humanities project that’s equal parts recovery- and accessibility-oriented. What I mean by that is that it’s my goal to bring public attention to Victorian writers (from fiction to nonfiction, canonical novel to ephemeral advertisement) in a way that is approachable, understandable, and useful to a wide-ranging audience, from our academic colleagues to students studying for exams to enthusiasts out in the wild, as it were.
 </p><br>
 
-MEBAread, Organizer and Leader, inaugural Mary Elizabeth Braddon Association digital read-along (Twitter and WordPress), https://maryelizabethbraddon.com/braddon-read-along-announcement-and-instructions-for-participation/</h3>
+<p>MEBAread, Organizer and Leader, inaugural Mary Elizabeth Braddon Association digital read-along (Twitter and WordPress), https://maryelizabethbraddon.com/braddon-read-along-announcement-and-instructions-for-participation/</p></h3>
 
 <h2>Text and Corpus Building and Analysis</h2>
 <h3 style="text-align:left"> I have experience with a variety of text analysis and mining tools, ranging from internet applications (Voyant Tools, Wordle) to open source programs such as AntConc. I am currently learning how to use Python for text analysis, and have successfully used it to build a corpus of public domain texts (see the Fergus Hume project, below).</h3>
@@ -77,21 +77,18 @@ Because I believe data sets should be shared when possible, I've uploaded them t
  </ul></h3>
 
 <h2>Workshops</h2>
-<h3 style="text-align:left">Mandala Informational Session for Subject and Teaching & Learning Librarians, University of
-Virginia Contemplative Sciences Center, 2019<br>
-
-SAGE2 for Instructors, University of Oregon Price Science Commons Visualization Lab, 2019<br>
-
-University of Oregon Frankenreads, an international celebration of the 200th anniversary of
-Mary Shelley’s Frankenstein for Halloween 2018<br>
-
-Humanities in the Viz Lab, in collaboration with Hayley Brazier and Heidi Kaufman of
-DH@UO and Franny Gaede of the Digital Scholarship Center, 2018<br>
-
-Podcasting for Teaching and Research with DH@UO, University of Oregon Digital Humanities,
-2018<br>
-
-Twitter for Academics workshop with DH@UO, University of Oregon Digital Humanities, 2017</h3>
+<h3 style="text-align:left">
+<ul>
+<li>Mandala Informational Session for Subject and Teaching & Learning Librarians, University of
+Virginia Contemplative Sciences Center, 2019</li>
+<li>SAGE2 for Instructors, University of Oregon Price Science Commons Visualization Lab, 2019</li>
+<li>University of Oregon Frankenreads, an international celebration of the 200th anniversary of
+Mary Shelley’s Frankenstein for Halloween 2018</li>
+<li>Humanities in the Viz Lab, in collaboration with Hayley Brazier and Heidi Kaufman of
+DH@UO and Franny Gaede of the Digital Scholarship Center, 2018</li>
+<li>Podcasting for Teaching and Research with DH@UO, University of Oregon Digital Humanities,
+2018</li>
+<li>Twitter for Academics workshop with DH@UO, University of Oregon Digital Humanities, 2017</li></ul></h3>
 
 <h2>Teaching with Technology</h2>
 <h3 style="text-align:left">As an instructor for eight years, I used a variety of technologies in the classroom, from Twitter to TAGS Explorer to WordPress to Storium, an online creative writing platform that gamifies storytelling for groups. In Spring 2018, I trained 35 undergraduates to use sound recording equipment and the open source DAW, Audacity, to create their own podcast, <em>Archetypes & Anarchy</em>. The podcast is available on iTunes and via our <a href="blogs.uoregon.edu/archtypesanarchy">course website</a>, where I've also archived course materials. Below, you can listen to the first episode of that podcast and view the syllabus and podcasting packet I provided students:</h3>
