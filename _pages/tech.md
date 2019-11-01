@@ -34,13 +34,13 @@ permalink: /_pages/tech
 <h3 style="text-align:left">Python, Garment Sewing, Sewing Machine Maintenance </h3>
 
 <h2>Professional Training</h2>
-<h3 style="text-align:left">“Inclusive Design,” a summer course offered by Digital Pedagogy Lab at the University of Mary
-Washington, 2019<br>
-
-“UDL 2.0: Expanding UDL Adoption,” a two-day training event focused on implementing and
-supporting universal design at the university level, University of Virginia, 2019<br>
-
-“Text Encoding Fundamentals and their Application,” a summer course held at the University of Victoria’s Digital Humanities Summer Institute, 2017</h3>
+<h3 style="text-align:left">
+<ul>
+  <li>“Inclusive Design,” a summer course offered by Digital Pedagogy Lab at the University of Mary
+Washington, 2019</li>
+  <li>“UDL 2.0: Expanding UDL Adoption,” a two-day training event focused on implementing and
+supporting universal design at the university level, University of Virginia, 2019</li>
+  <li>“Text Encoding Fundamentals and their Application,” a summer course held at the University of Victoria’s Digital Humanities Summer Institute, 2017</li></ul></h3>
 
 <h2>Service</h2>
 <h3 style="text-align:left"><ul>
